@@ -1,2 +1,1 @@
-exproling shell permissions
-
+exploring shell permisions
